@@ -1,9 +1,9 @@
 ## Hi there 👋
 <a href="">
-  <img height=200 align="center" src="https://my-stats-y8m5.vercel.app/api?username=Suddhu018&show_icons=true&theme=dark&include_all_commits=true&&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats-five-drab-17.vercel.app/api?username=Suddhu018&show_icons=true&theme=dark&include_all_commits=true&&card_width=350" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://my-stats-y8m5.vercel.app/api/top-langs/?username=Suddhu018&theme=dark&layout=compact&card_width=320&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats-five-drab-17.vercel.app/api/top-langs/?username=Suddhu018&theme=dark&layout=compact&card_width=320&include_all_commits=true" />
 </a>
 <!--
 <a href="">
