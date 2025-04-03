@@ -6,6 +6,9 @@
   <img height=200 align="center" src="https://my-stats-y8m5.vercel.app/api/top-langs/?username=Suddhu018&theme=dark&layout=compact&card_width=320&include_all_commits=true" />
 </a>
 <!--
+<a href="">
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Suddhu018&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
+</a>
 **Suddhu018/Suddhu018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
