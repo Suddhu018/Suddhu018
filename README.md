@@ -25,7 +25,7 @@
   </a>
 
   <a href="">
-    <img height="200" src="https://github-readme-stats-five-drab-17.vercel.app/api/top-langs/?username=Suddhu018&theme=dark&layout=compact&card_width=170&include_all_commits=true" />
+    <img height="200" src="https://github-readme-stats-five-drab-17.vercel.app/api/top-langs/?username=Suddhu018&theme=dark&layout=compact&card_width=120&include_all_commits=true" />
   </a>
 </p>
 
