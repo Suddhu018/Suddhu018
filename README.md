@@ -17,7 +17,7 @@
 </a>
 </p>
 
-<p >
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l0YWw2MzU5Mm1rcjh2MXN2ZmgydTY5ZWFxdXgxcW1jNXdsY2h0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif" width="200" height="200" />
   
   <a href="">
@@ -25,7 +25,7 @@
   </a>
 
   <a href="">
-    <img height="200" src="https://github-readme-stats-five-drab-17.vercel.app/api/top-langs/?username=Suddhu018&theme=dark&layout=compact&card_width=230&include_all_commits=true" />
+    <img height="200" src="https://github-readme-stats-five-drab-17.vercel.app/api/top-langs/?username=Suddhu018&theme=dark&layout=compact&card_width=170&include_all_commits=true" />
   </a>
 </p>
 
