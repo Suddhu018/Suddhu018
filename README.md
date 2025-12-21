@@ -44,7 +44,7 @@ fields_of_interests:
   [
     "Web Development",
     "Backend",
-    "Databse Internals"
+    "Database Internals"
     "System Design"
   ]
 technical_background:
