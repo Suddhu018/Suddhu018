@@ -25,18 +25,16 @@
   </a>
 </p>
 
---- Note: These stats only contain **public contributions**.
-
 <h2> 🦁 &nbsp;A Little Bit About Me </h2>
 
 ```yaml
 name: Sudhanshu Shekhar
 located_in: Mumbai, Maharastra
-current_job: Software Development Engineer Intern Backend
+current_job: SDE 1 (Backend)
 education:
   [
     "Self-Taught Developer",
-    "Bachelor's in Civil Engineering at NIT Surat",
+    "Bachelor's from NIT Surat",
   ]
 company: Carousell
 
