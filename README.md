@@ -25,8 +25,8 @@
 
 ```yaml
 name: Sudhanshu Shekhar
-located_in: Mumbai, Maharastra
-current_job: SDE 1 (Backend)
+located_in: Bengaluru, Karnataka
+current_job: SDE 2 (Backend)
 education:
   [
     "Self-Taught Developer",
